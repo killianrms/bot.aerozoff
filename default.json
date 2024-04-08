@@ -1,0 +1,19 @@
+{
+  "skin": "CID_028_Athena_Commando_F",
+  "style": 1,
+  "sac": "BID_138_Celestial",
+  "pioche": "Pickaxe_Lockjaw",
+  "banner": "OtherBanner59",
+  "bn_color": "defaultcolor22",
+  "level": 100,
+  "tier": 100,
+  "join_msg": "Hey! {DISPLAY_NAME} \n For help me you can : \nUSE CODE Aeroz #ad\nJoin my discord : https://discord.gg/lobbybot \n",
+  "add_msg": "Hey! {DISPLAY_NAME} u add me wow join me for more and fun thing\n USE CODE GAZO #ad",
+  "inv_msg": "Join Me.\n discord.gg/lobbybot \n USE CODE GAZO #ad",
+  "inv_all": "T",
+  "inv_on": "F",
+  "version_web": "FIX",
+  "bl_inv": "AerozOff",
+  "admin": ["AerozOff"],
+  "Impossible": "21"
+}
