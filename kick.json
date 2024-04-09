@@ -91,7 +91,9 @@
     "PRIVATE",
     "MathyslolFN",
     "XBXBOT",
-    "VHostTaxi"
+    "VHostTaxi",
+    "USE",
+    "USE CODE"
   ],
   "ban": [
     "mathyslol",
@@ -120,6 +122,8 @@
     "tnfangel",
     "tnf angel",
     "MathyslolFN",
-    "VHostTaxi"
+    "VHostTaxi",
+    "SQL",
+    "VBKS"
   ]
 }
